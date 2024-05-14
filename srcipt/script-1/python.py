@@ -1,5 +1,4 @@
 import os 
-
 print("hello stephe")
 
 os.system("nproc")
